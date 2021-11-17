@@ -1,6 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img src="https://img.shields.io/badge/ReactNative-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/> <img src="https://img.shields.io/badge/ReactNative-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 <!--
 **2Junsu/2Junsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
