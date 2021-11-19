@@ -3,8 +3,8 @@
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Junsu&show_icons=true&theme=radical)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs0630">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Junsu&show_icons=true&theme=radical)
 <!--
 **2Junsu/2Junsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
