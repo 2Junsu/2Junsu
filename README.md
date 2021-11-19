@@ -4,10 +4,11 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ljs0630">
-<br/>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=2Junsu" height="165">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/2Junsu)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=2Junsu" height="165">
+
 <!--
 **2Junsu/2Junsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
