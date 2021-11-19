@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2Junsu&show_icons=true&theme=radical)
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=2Junsu" height="165">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/2Junsu)
 <!--
 **2Junsu/2Junsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
